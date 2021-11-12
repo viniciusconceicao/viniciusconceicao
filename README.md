@@ -28,5 +28,5 @@
   
   <img align="center" alt="vini-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
     
-    <img align="right" alt="vini-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yFKbJFsOvs4AAAAM/luffy-smile-luffy-giggle.gif">
+    <img align="right" alt="vini-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/46/e8/62/46e862b1894bc33053e17a9f437b1e76.jpg">
   </div>
