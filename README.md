@@ -27,4 +27,6 @@
   <img align="center" alt="vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   
   <img align="center" alt="vini-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yFKbJFsOvs4AAAAM/luffy-smile-luffy-giggle.gif">
   </div>
