@@ -1,4 +1,4 @@
-### Olá, eu sou o Vinicius Silva 👋
+### Olá, eu sou o Vinicius 👋
 ## Bem vindo, que bom que está aqui!
 
 <div align="center">
